@@ -1,0 +1,25 @@
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe.config
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.pdb
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.csprojResolveAssemblyReference.cache
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.frmCliente_Insertar.resources
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.Properties.Resources.resources
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.csproj.GenerateResource.Cache
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.exe
+F:\09 Diciembre\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.pdb
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe.config
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.exe
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.pdb
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.pdb
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.csprojResolveAssemblyReference.cache
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.frmCliente_Insertar.resources
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.Properties.Resources.resources
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.csproj.GenerateResource.Cache
+F:\16 Diciembre\Primera aplicación\Primera aplicación\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.frmCliente_Listar.resources
+D:\2020\RZAPATA\Semana 2\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe.config
+D:\2020\RZAPATA\Semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.exe
+D:\2020\RZAPATA\Semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.pdb
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe.config
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.exe
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.pdb

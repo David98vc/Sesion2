@@ -1,0 +1,10 @@
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\Semana_dos.csprojResolveAssemblyReference.cache
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\Semana_dos.csproj.GenerateResource.Cache
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.exe
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\PrimerEjercicio.pdb
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\Semana_dos.frmCalificacion_Insertar.resources
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\Semana_dos.frmCalificacion_Listar.resources
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\obj\Debug\Semana_dos.Properties.Resources.resources
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe.config
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.exe
+D:\2020\RZAPATA\Semana 2\semana 2\PrimerEjercicio\PrimerEjercicio\bin\Debug\PrimerEjercicio.pdb
